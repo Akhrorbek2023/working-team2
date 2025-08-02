@@ -1,8 +1,11 @@
 import React from 'react'
+import SectionOne from '../components/SectionOne'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <SectionOne />
+    </div>
   )
 }
 
