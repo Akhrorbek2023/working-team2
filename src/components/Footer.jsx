@@ -3,9 +3,9 @@ import React from 'react'
 const Footer = () => {
   return (
 <div>
-<div className='flex bg-[#090823] text-white justify-between p-12'>
+<div className='flex bg-[#090823] text-white justify-between p-12 '>
       <div>
-        <h1 className='text-2xl  mb-4 text-purple-400 font-orbitron'>Meta V</h1>
+      <h1 className='text-2xl  mb-4 text-purple-400 font-[orbitron] font-bold'>Meta V</h1>
         <p>Adipiscing at in tellus integer. Pellentesque massa <br /> placerat duis ultricies lacus. Nisi porta lorem mollis <br /> aliquam ut porttitor</p>
       </div>
 
@@ -13,7 +13,7 @@ const Footer = () => {
 
       <div> 
         <ul>
-            <li className='text-2xl font-semibold mb-4'>About Us</li>
+            <li className='text-2xl font-semibold mb-4 font-[orbitron]'>About Us</li>
             <li>About MetaV</li>
             <li>Contact Us</li>
             <li>FAQ</li>
@@ -26,7 +26,7 @@ const Footer = () => {
 
       <div> 
         <ul>
-            <li className='text-2xl font-semibold mb-4'>NFT Marketplace</li>
+            <li className='text-2xl font-semibold mb-4 font-[orbitron]'>NFT Marketplace</li>
             <li>Virtual Concert</li>
             <li>Gaming</li>
             <li>Artwork</li>
