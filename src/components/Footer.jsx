@@ -5,7 +5,7 @@ const Footer = () => {
 <div>
 <div className='flex bg-[#090823] text-white justify-between p-12'>
       <div>
-        <h1 className='text-2xl font-semibold mb-4 text-purple-400'>Meta V</h1>
+        <h1 className='text-2xl  mb-4 text-purple-400 font-orbitron'>Meta V</h1>
         <p>Adipiscing at in tellus integer. Pellentesque massa <br /> placerat duis ultricies lacus. Nisi porta lorem mollis <br /> aliquam ut porttitor</p>
       </div>
 
