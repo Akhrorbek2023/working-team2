@@ -3,7 +3,7 @@ import SectionOneImg from "../assets/SectionOneImg.png"
 
 function SectionOne() {
   return (
-    <div className="w-[100%] bg-[black]">
+    <div className="w-[100%]">
         <div className="max-w-[1440px] w-[90%] m-auto mt-0">
             <div className="flex items-center justify-evenly gap-[200px] py-10">
                 <div className="">
