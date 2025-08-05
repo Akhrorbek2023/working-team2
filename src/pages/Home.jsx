@@ -38,7 +38,7 @@ const Home = () => {
 					</div>
 				</div>
 				<img
-					className='w-[800px] h-[800px] object-cover'
+					className='w-[800px] h-[600px] object-cover'
 					src='Group 48095504.png'
 					alt='img of metaverse'
 				/>
